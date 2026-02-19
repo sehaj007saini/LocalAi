@@ -1,1 +1,1 @@
-# LocalAi
+# LegalAi
